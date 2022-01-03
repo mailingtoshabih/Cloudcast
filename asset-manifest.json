@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cloudcast/static/css/main.91991f96.css",
+    "main.js": "/Cloudcast/static/js/main.38ef96a2.js",
+    "static/js/787.819fee2c.chunk.js": "/Cloudcast/static/js/787.819fee2c.chunk.js",
+    "static/media/cold.jpg": "/Cloudcast/static/media/cold.18fdc8c70e39293fd0ec.jpg",
+    "static/media/autumn.jpg": "/Cloudcast/static/media/autumn.92db316a680c3bd8a155.jpg",
+    "static/media/fire.jpg": "/Cloudcast/static/media/fire.21c165b123f9b5ea11b1.jpg",
+    "static/media/sunny.jpg": "/Cloudcast/static/media/sunny.081924e8eedbcaf8adac.jpg",
+    "static/media/zero.jpg": "/Cloudcast/static/media/zero.b445b5fcc28dfa43566f.jpg",
+    "index.html": "/Cloudcast/index.html",
+    "main.91991f96.css.map": "/Cloudcast/static/css/main.91991f96.css.map",
+    "main.38ef96a2.js.map": "/Cloudcast/static/js/main.38ef96a2.js.map",
+    "787.819fee2c.chunk.js.map": "/Cloudcast/static/js/787.819fee2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91991f96.css",
+    "static/js/main.38ef96a2.js"
+  ]
+}
